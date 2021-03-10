@@ -34,4 +34,4 @@
   <br>
   URL: https://danbushong.github.io/employee-directory/
   ## Screenhot
-  <img src:"employee-directory.jpg">
+  <img src="employee-directory.jpg">
