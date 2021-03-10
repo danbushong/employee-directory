@@ -6,6 +6,7 @@
   * [Usage](#Usage)
   * [License](#License)
   * [Questions](#Questions)
+  * [Screenshot](#Screenshot)
   ## Installation
   npm install
   <br>
@@ -33,5 +34,5 @@
   Git Hub: https://github.com/danbushong/employee-directory
   <br>
   URL: https://danbushong.github.io/employee-directory/
-  ## Screenhot
+  ## Screenshot
   <img src="employee-directory.jpg">
