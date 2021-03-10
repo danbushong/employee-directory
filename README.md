@@ -33,3 +33,5 @@
   Git Hub: https://github.com/danbushong/employee-directory
   <br>
   URL: https://danbushong.github.io/employee-directory/
+  ## Screenhot
+  <img src:"employee-directory.jpg">
